@@ -12,6 +12,7 @@ export async function POST(request: Request) {
     text,
     companyId: body.companyId || undefined,
     jobId: body.jobId || undefined,
+    scopeJobIds: Array.isArray(body.scopeJobIds) ? body.scopeJobIds.slice(0, 10) : undefined,
     recentJobIds: Array.isArray(body.recentJobIds) ? body.recentJobIds.slice(0, 10) : undefined,
   });
   return Response.json(res);

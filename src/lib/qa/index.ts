@@ -3,12 +3,14 @@ import { alumni, getSource } from "../data";
 import type { Alumni } from "../types";
 import { ExtractiveGenerator } from "./extractiveGenerator";
 import { KeywordRetriever } from "./keywordRetriever";
+import { RuleBasedRecommender } from "./ruleBasedRecommender";
 import { RuleBasedSuggester } from "./ruleBasedSuggester";
-import type { AnswerGenerator, AskRequest, AskResponse, Retriever, VisitQuestionSuggester } from "./types";
+import type { AlumniRecommender, AnswerGenerator, AskRequest, AskResponse, Retriever, VisitQuestionSuggester } from "./types";
 
 const retriever: Retriever = new KeywordRetriever();
 const generator: AnswerGenerator = new ExtractiveGenerator();
 export const visitSuggester: VisitQuestionSuggester = new RuleBasedSuggester();
+export const alumniRecommender: AlumniRecommender = new RuleBasedRecommender(visitSuggester);
 
 export async function ask(req: AskRequest): Promise<AskResponse> {
   const retrieval = await retriever.search(req);

@@ -29,7 +29,7 @@ export function VisitClient({ jobId, alumni }: { jobId: string; alumni: Alumni[]
   }, [jobId, askKey]);
 
   return (
-    <div className="space-y-4">
+    <div className="grid grid-cols-[1fr_360px] items-start gap-5">
       <Card>
         <SectionTitle sub="訪問依頼のメッセージにそのまま使えます">この人に聞くとよいこと</SectionTitle>
         {!questions && <p className="text-sm text-neutral-500">準備中…</p>}

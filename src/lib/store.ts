@@ -57,25 +57,6 @@ export function clearEvents() {
   writeEvents([]);
 }
 
-/** ダッシュボードの「サンプル履歴を読み込む」用 */
-export function seedDemoEvents() {
-  const base = Date.now() - 3 * 24 * 3600 * 1000;
-  const t = (m: number) => new Date(base + m * 60000).toISOString();
-  writeEvents([
-    { type: "view_company", ts: t(0), companyId: "arclight" },
-    { type: "view_job", ts: t(1), jobId: "j-arc", companyId: "arclight" },
-    { type: "open_evidence", ts: t(3), jobId: "j-arc", companyId: "arclight" },
-    { type: "ask", ts: t(5), question: "戦略コンサルの1年目は具体的に何をする？", status: "answered", jobId: "j-arc", companyId: "arclight" },
-    { type: "ask", ts: t(7), question: "アークライトの年収はどれくらい？", status: "no_evidence", jobId: "j-arc", companyId: "arclight" },
-    { type: "view_company", ts: t(20), companyId: "miride" },
-    { type: "view_job", ts: t(21), jobId: "j-mit", companyId: "miride" },
-    { type: "ask", ts: t(24), question: "ITコンサルにプログラミングスキルは必要？", status: "answered", jobId: "j-mit", companyId: "miride" },
-    { type: "view_company", ts: t(40), companyId: "lumina" },
-    { type: "view_job", ts: t(41), jobId: "j-lm", companyId: "lumina" },
-    { type: "open_evidence", ts: t(42), jobId: "j-lm", companyId: "lumina" },
-  ]);
-}
-
 export function getHrCompany(): string {
   return localStorage.getItem(HR_COMPANY_KEY) ?? "arclight";
 }

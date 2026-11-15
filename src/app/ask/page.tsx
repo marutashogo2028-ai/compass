@@ -1,9 +1,9 @@
-import { AskClient } from "./AskClient";
+import { redirect } from "next/navigation";
 
-// モックデータはローカルにあり即時に描画できるため、URLパラメータ待ちのブロッキングを許可する
+// 旧URL（/ask）はチャット画面へ
 export const instant = false;
 
 export default async function AskPage({ searchParams }: PageProps<"/ask">) {
   const { job } = await searchParams;
-  return <AskClient initialJobId={typeof job === "string" ? job : ""} />;
+  redirect(typeof job === "string" ? `/?job=${encodeURIComponent(job)}` : "/");
 }

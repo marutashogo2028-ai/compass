@@ -18,14 +18,14 @@ export default async function VisitPage({ params }: PageProps<"/visit/[jobId]">)
   const company = getCompany(job.companyId)!;
 
   return (
-    <div className="space-y-4">
+    <div className="mx-auto max-w-5xl space-y-5 px-8 py-8">
       <ViewTracker type="view_visit" jobId={jobId} companyId={company.id} />
       <Link href={`/jobs/${jobId}`} className="text-xs text-neutral-500">
         ‹ {job.title}
       </Link>
       <div>
         <p className="text-xs text-neutral-500">OB/OG訪問の準備</p>
-        <h1 className="text-xl font-bold">
+        <h1 className="text-2xl font-bold">
           {company.name}／{job.title}
         </h1>
         <p className="mt-1 text-sm text-neutral-600">見た内容と質問履歴から、公開情報では分からないこと＝OB/OGに聞く価値があることを選びました。</p>

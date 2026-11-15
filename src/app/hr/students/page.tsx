@@ -15,7 +15,7 @@ export default function HighIntentStudentsPage() {
   return (
     <>
       <div>
-        <h1 className="text-xl font-bold">訪問意欲の高い学生</h1>
+        <h1 className="text-2xl font-bold">訪問意欲の高い学生</h1>
         <p className="mt-1 text-sm text-neutral-600">
           {getCompany(companyId)?.name}の仕事を深く調べている学生（匿名）。個人を特定できる情報は、学生が訪問を依頼するまで表示されません。
         </p>
@@ -25,7 +25,7 @@ export default function HighIntentStudentsPage() {
 
       {rows.length === 0 && <EmptyNote>まだこの企業を調べている学生はいません。</EmptyNote>}
 
-      <div className="space-y-2">
+      <div className="grid grid-cols-2 gap-4 xl:grid-cols-3">
         {rows.map((r) => (
           <Card key={r.student.id} className={`p-3 ${r.student.id === "me" ? "ring-2 ring-teal-700/40" : ""}`}>
             <div className="flex items-center justify-between gap-2">

@@ -16,7 +16,7 @@ export class ExtractiveGenerator implements AnswerGenerator {
         segments: [
           { text: "情報がありません。この質問に答えられる根拠（OB/OG訪問記録・社員プロフィール・公式コンテンツ）が見つからなかったため、推測での回答は控えます。", citationIds: [] },
           ...(labels.length ? [{ text: `「${labels.join("・")}」に関する公開情報は、まだ登録されていません。`, citationIds: [] }] : []),
-          { text: "下のOB/OGに直接聞いてみましょう。", citationIds: [] },
+          { text: "OB/OG訪問で直接聞いてみましょう。", citationIds: [] },
         ],
       };
     }

@@ -37,6 +37,8 @@ export function parseQuery(q: RetrievalQuery) {
     const inCompany = jobIds.filter((id) => companyIds.includes(jobs.find((j) => j.id === id)!.companyId));
     jobIds = inCompany.length ? inCompany : jobs.filter((j) => companyIds.includes(j.companyId)).map((j) => j.id);
   }
+  // 質問文から特定できなければ、会話で絞り込んだ範囲を使う
+  if (!companyIds.length && !jobIds.length && q.scopeJobIds?.length) jobIds = [...q.scopeJobIds];
   const topics = detectTopics(text);
   // 企業・職種だけ指定された質問（「ルミナってどんな会社？」）は業務内容の質問として扱う
   if (topics.length === 0 && (companyIds.length || jobIds.length) && extractTerms(text).length === 0) topics.push("duties");

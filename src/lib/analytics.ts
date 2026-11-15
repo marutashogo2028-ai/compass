@@ -1,8 +1,8 @@
 // 学生ダッシュボードと人事インサイトの集計（純粋関数）
-import { getCompany, getJob, jobs, jobsOfCompany, mockStudents } from "./data";
-import { QUESTION_CATEGORIES, categorize } from "./qa/dictionary";
+import { getJob, jobsOfCompany, mockStudents } from "./data";
+import { categorize } from "./qa/dictionary";
 import { searchSync } from "./qa/keywordRetriever";
-import type { Quadrant, QuestionCategory, Student, StudentEvent } from "./types";
+import type { QuestionCategory, Student, StudentEvent } from "./types";
 
 type AskEvent = Extract<StudentEvent, { type: "ask" }>;
 
@@ -19,48 +19,6 @@ export function getMockStudents(): Student[] {
     }),
   }));
   return resolved;
-}
-
-// ------------------------------------------------------------
-// 学生：解像度
-// ------------------------------------------------------------
-export const RESOLUTION_STEPS = ["仕事ページを見た", "根拠を開いた", "質問して答えを得た", "訪問の準備をした"] as const;
-
-/** 職種ごとの解像度 0-4。2以上を「理解した」とみなす */
-export function jobResolution(events: StudentEvent[], jobId: string): boolean[] {
-  return [
-    events.some((e) => e.type === "view_job" && e.jobId === jobId),
-    events.some((e) => e.type === "open_evidence" && e.jobId === jobId),
-    events.some((e) => e.type === "ask" && e.status === "answered" && e.jobId === jobId),
-    events.some((e) => (e.type === "view_visit" || e.type === "visit_request") && e.jobId === jobId),
-  ];
-}
-
-export const UNDERSTOOD_THRESHOLD = 2;
-
-export function dashboard(events: StudentEvent[]) {
-  const perJob = jobs.map((j) => {
-    const steps = jobResolution(events, j.id);
-    return { job: j, company: getCompany(j.companyId)!, steps, level: steps.filter(Boolean).length };
-  });
-  const asks = events.filter((e): e is AskEvent => e.type === "ask");
-  const categories = QUESTION_CATEGORIES.map((c) => ({ category: c, count: asks.filter((a) => categorize(a.question) === c).length }));
-  const quadrantCounts: Record<Quadrant, number> = { HH: 0, HL: 0, LH: 0, LL: 0 };
-  for (const e of events) {
-    if (e.type === "view_job" || e.type === "view_company") {
-      const c = getCompany(e.companyId);
-      if (c) quadrantCounts[c.quadrant]++;
-    }
-  }
-  return {
-    perJob,
-    understood: perJob.filter((p) => p.level >= UNDERSTOOD_THRESHOLD).length,
-    viewedCompanies: new Set(events.filter((e) => e.type === "view_company" || e.type === "view_job").map((e) => (e as { companyId: string }).companyId)).size,
-    asked: asks.length,
-    unanswered: asks.filter((a) => a.status === "no_evidence").length,
-    categories,
-    quadrantCounts,
-  };
 }
 
 // ------------------------------------------------------------

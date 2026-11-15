@@ -11,6 +11,8 @@ export interface RetrievalQuery {
   /** 画面側で企業・職種が絞り込まれている場合に指定 */
   companyId?: string;
   jobId?: string;
+  /** 会話で絞り込んだ職種の範囲。質問文から企業・職種が読み取れないときだけ使う */
+  scopeJobIds?: string[];
   limit?: number;
 }
 
@@ -81,4 +83,28 @@ export interface VisitQuestion {
 
 export interface VisitQuestionSuggester {
   suggest(ctx: { jobId: string; events: StudentEvent[] }): Promise<VisitQuestion[]>;
+}
+
+export interface AlumniRecommendation {
+  alumni: Alumni;
+  /** 「なぜこの人か」。学生の相談内容と、その人が書いた・話したソースに基づく */
+  reasons: string[];
+  /** この人に聞くとよい質問 */
+  questions: VisitQuestion[];
+  /** この人が書いた・話したソースのうち、今回の回答で引用されたもの */
+  citedSourceIds: string[];
+}
+
+export interface RecommendContext {
+  /** 相談の対象職種 */
+  jobIds: string[];
+  /** 学生が知りたいトピック */
+  focusTopics: Topic[];
+  /** これまでの回答で引用されたソース */
+  citedSourceIds: string[];
+  events: StudentEvent[];
+}
+
+export interface AlumniRecommender {
+  recommend(ctx: RecommendContext): Promise<AlumniRecommendation[]>;
 }
