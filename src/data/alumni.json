@@ -1,0 +1,22 @@
+[
+  { "id": "al-arc-a", "displayName": "Kさん", "companyId": "arclight", "jobId": "j-arc", "joinYear": 2022, "oneLiner": "経済学部卒。消費財メーカーの新規事業プロジェクトを担当中" },
+  { "id": "al-arc-b", "displayName": "Sさん", "companyId": "arclight", "jobId": "j-arc", "joinYear": 2019, "oneLiner": "マネージャー。消費財・製薬の戦略案件を多数経験" },
+  { "id": "al-ng-a", "displayName": "Mさん", "companyId": "northgate", "jobId": "j-ng", "joinYear": 2023, "oneLiner": "理工学部卒。テクノロジー企業のM&A案件でアナリストとして活動" },
+  { "id": "al-ng-b", "displayName": "Yさん", "companyId": "northgate", "jobId": "j-ng", "joinYear": 2018, "oneLiner": "ヴァイス・プレジデント。テクノロジー業界のM&Aが専門" },
+  { "id": "al-skt-a", "displayName": "Hさん", "companyId": "soukai", "jobId": "j-skt", "joinYear": 2021, "oneLiner": "食料本部で穀物トレーディングを担当" },
+  { "id": "al-skt-b", "displayName": "Nさん", "companyId": "soukai", "jobId": "j-skt", "joinYear": 2016, "oneLiner": "課長代理。シンガポール駐在経験あり" },
+  { "id": "al-ski-a", "displayName": "Oさん", "companyId": "soukai", "jobId": "j-ski", "joinYear": 2020, "oneLiner": "投資先の事業計画づくりを担当。出向経験あり" },
+  { "id": "al-ski-b", "displayName": "Rさん", "companyId": "soukai", "jobId": "j-ski", "joinYear": 2015, "oneLiner": "電力インフラの事業投資。海外の発電事業会社に出向経験" },
+  { "id": "al-mit-a", "displayName": "Fさん", "companyId": "miride", "jobId": "j-mit", "joinYear": 2024, "oneLiner": "文学部卒・プログラミング未経験から入社。基幹システム刷新でPMOを担当" },
+  { "id": "al-mit-b", "displayName": "Wさん", "companyId": "miride", "jobId": "j-mit", "joinYear": 2019, "oneLiner": "マネージャー。製造業の基幹システム刷新を3件リード" },
+  { "id": "al-mib-a", "displayName": "Gさん", "companyId": "miride", "jobId": "j-mib", "joinYear": 2022, "oneLiner": "小売業の業務改革プロジェクトでワークショップを運営" },
+  { "id": "al-mib-b", "displayName": "Eさん", "companyId": "miride", "jobId": "j-mib", "joinYear": 2018, "oneLiner": "シニアコンサルタント。営業改革・SCM改革が専門" },
+  { "id": "al-hk-a", "displayName": "Iさん", "companyId": "hakuyo", "jobId": "j-hk", "joinYear": 2023, "oneLiner": "飲料メーカー担当チームでキャンペーン進行を担当" },
+  { "id": "al-hk-b", "displayName": "Uさん", "companyId": "hakuyo", "jobId": "j-hk", "joinYear": 2017, "oneLiner": "チームリーダー。化粧品ブランドの年間プロモーションを統括" },
+  { "id": "al-lm-a", "displayName": "Jさん", "companyId": "lumina", "jobId": "j-lm", "joinYear": 2024, "oneLiner": "入社半年で健康診断予約サービスの立ち上げ担当に" },
+  { "id": "al-lm-b", "displayName": "Pさん", "companyId": "lumina", "jobId": "j-lm", "joinYear": 2021, "oneLiner": "新卒1期生。事業開発チームのリード" },
+  { "id": "al-ct-a", "displayName": "Lさん", "companyId": "catalyst", "jobId": "j-ct", "joinYear": 2024, "oneLiner": "物流会社の導入支援を担当。倉庫訪問が多い" },
+  { "id": "al-ct-b", "displayName": "Qさん", "companyId": "catalyst", "jobId": "j-ct", "joinYear": 2022, "oneLiner": "CSチームリーダー。約40社の導入を担当" },
+  { "id": "al-th-a", "displayName": "Vさん", "companyId": "toho", "jobId": "j-th", "joinYear": 2023, "oneLiner": "工場実習を経て、中部エリアのルート営業を担当" },
+  { "id": "al-th-b", "displayName": "Xさん", "companyId": "toho", "jobId": "j-th", "joinYear": 2014, "oneLiner": "名古屋支店 営業課長。タイ駐在経験あり" }
+]

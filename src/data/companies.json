@@ -1,0 +1,98 @@
+[
+  {
+    "id": "arclight",
+    "name": "アークライト戦略研究所",
+    "industryLabel": "戦略コンサルティング",
+    "aliases": ["アークライト"],
+    "description": "経営陣の重要な意思決定を支援する少数精鋭の戦略コンサルティングファーム。",
+    "hiringCount": 25,
+    "competitiveness": 95,
+    "quadrant": "HL",
+    "growthType": "early_ownership",
+    "growthNote": { "text": "1年目からクライアント役員への報告に同席し、3年目には論点設計を任される", "evidence": ["s-arc-3#p2", "s-arc-1#p3"] }
+  },
+  {
+    "id": "northgate",
+    "name": "ノースゲート・キャピタル証券",
+    "industryLabel": "投資銀行",
+    "aliases": ["ノースゲート"],
+    "description": "M&A助言と資金調達を手がける外資系投資銀行。",
+    "hiringCount": 40,
+    "competitiveness": 87,
+    "quadrant": "HL",
+    "growthType": "specialist",
+    "growthNote": { "text": "財務モデリングとM&Aの専門性を短期間で集中的に身につける", "evidence": ["s-ng-4#p2", "s-ng-3#p2"] }
+  },
+  {
+    "id": "soukai",
+    "name": "蒼海物産",
+    "industryLabel": "総合商社",
+    "aliases": ["蒼海", "商社"],
+    "description": "資源・食料・インフラなど幅広い分野でトレーディングと事業投資を行う総合商社。",
+    "hiringCount": 150,
+    "competitiveness": 90,
+    "quadrant": "HH",
+    "growthType": "structured",
+    "growthNote": { "text": "数年単位のジョブローテーションと海外研修で段階的に育成する", "evidence": ["s-skt-4#p2", "s-ski-4#p2"] }
+  },
+  {
+    "id": "miride",
+    "name": "ミライド・コンサルティング",
+    "industryLabel": "総合コンサルティング",
+    "aliases": ["ミライド"],
+    "description": "戦略から業務改革・システム導入まで一気通貫で支援する総合コンサルティングファーム。",
+    "hiringCount": 600,
+    "competitiveness": 78,
+    "quadrant": "HH",
+    "growthType": "specialist",
+    "growthNote": { "text": "業界×ソリューションの専門領域を早めに決め、プロジェクトを通じて深める", "evidence": ["s-mit-4#p2", "s-mib-4#p2"] }
+  },
+  {
+    "id": "hakuyo",
+    "name": "博陽エージェンシー",
+    "industryLabel": "広告代理店",
+    "aliases": ["博陽", "広告代理店", "代理店"],
+    "description": "大手消費財メーカーを中心に統合マーケティングを支援する広告代理店。",
+    "hiringCount": 200,
+    "competitiveness": 75,
+    "quadrant": "HH",
+    "growthType": "early_ownership",
+    "growthNote": { "text": "2年目から中規模クライアントの窓口を任されることが多い", "evidence": ["s-hk-2#p3", "s-hk-4#p2"] }
+  },
+  {
+    "id": "lumina",
+    "name": "ルミナ・ヘルステック",
+    "industryLabel": "ヘルスケアスタートアップ",
+    "aliases": ["ルミナ", "ヘルステック"],
+    "description": "クリニック向け予約・問診SaaSを展開する創業5年目のスタートアップ。",
+    "hiringCount": 8,
+    "competitiveness": 35,
+    "quadrant": "LL",
+    "growthType": "early_ownership",
+    "growthNote": { "text": "入社半年で新規事業の立ち上げ担当になるなど、裁量の大きさが特徴", "evidence": ["s-lm-1#p2", "s-lm-3#p2"] }
+  },
+  {
+    "id": "catalyst",
+    "name": "カタリスト・ロジ",
+    "industryLabel": "物流SaaSスタートアップ",
+    "aliases": ["カタリスト", "物流SaaS"],
+    "description": "中小物流会社向けに配車・在庫管理SaaSを提供するスタートアップ。",
+    "hiringCount": 12,
+    "competitiveness": 30,
+    "quadrant": "LL",
+    "growthType": "early_ownership",
+    "growthNote": { "text": "顧客の声をプロダクトに直接反映でき、2年目でチームリーダーになる例もある", "evidence": ["s-ct-3#p3", "s-ct-2#p2"] }
+  },
+  {
+    "id": "toho",
+    "name": "東邦精機工業",
+    "industryLabel": "精密機器メーカー",
+    "aliases": ["東邦精機", "メーカー"],
+    "description": "工作機械や精密部品を国内外の製造業に販売する老舗メーカー。",
+    "hiringCount": 300,
+    "competitiveness": 40,
+    "quadrant": "LH",
+    "growthType": "structured",
+    "growthNote": { "text": "半年間の工場実習とOJTで製品知識を固めてから営業に出る", "evidence": ["s-th-4#p1", "s-th-1#p2"] }
+  }
+]

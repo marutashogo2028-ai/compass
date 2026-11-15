@@ -1,0 +1,460 @@
+[
+  {
+    "id": "s-arc-1", "type": "visit_record", "companyId": "arclight", "jobId": "j-arc", "jobTitle": "戦略コンサルタント",
+    "author": { "alumniId": "al-arc-a", "displayName": "Kさん", "joinYear": 2022 },
+    "date": "2026-05-12", "title": "戦略コンサル1年目のリアル",
+    "consent": { "publicConsent": true, "consentedAt": "2026-05-13" },
+    "passages": [
+      { "id": "s-arc-1#p1", "topics": ["daily", "worklife"], "text": "9時にチームの朝会で当日の論点を確認し、午前は業界レポートや社内データベースでリサーチ。午後はクライアントへのインタビューや定例会、夜はマネージャーと資料のレビューをして20時頃に退社する日が多い。" },
+      { "id": "s-arc-1#p2", "topics": ["duties", "year1"], "text": "1年目の主な仕事は、市場規模の推計、競合比較の表づくり、インタビュー議事録の整理。担当パートのスライド10〜15枚を自分で作り、マネージャーのレビューを受けて直す、の繰り返し。" },
+      { "id": "s-arc-1#p3", "topics": ["year3", "career"], "text": "3年目になると、プロジェクトの一部の論点を丸ごと任され、仮説の立て方から分析設計まで自分で考える。後輩の資料のレビューもするようになる。" }
+    ]
+  },
+  {
+    "id": "s-arc-2", "type": "visit_record", "companyId": "arclight", "jobId": "j-arc", "jobTitle": "戦略コンサルタント",
+    "author": { "alumniId": "al-arc-b", "displayName": "Sさん", "joinYear": 2019 },
+    "date": "2025-11-03", "title": "戦略コンサルで求められる力",
+    "consent": { "publicConsent": true, "consentedAt": "2025-11-04" },
+    "passages": [
+      { "id": "s-arc-2#p1", "topics": ["duties"], "text": "仕事の中心は、クライアントの経営課題を論点に分解し、データとインタビューで検証して打ち手を提言すること。1プロジェクトは2〜3か月で、テーマは新規事業、M&A戦略、コスト改革などさまざま。" },
+      { "id": "s-arc-2#p2", "topics": ["skills"], "text": "必要なのは、構造化して考える力と、Excelでの数値分析、短い時間で要点を伝える文章力。入社時に高度なスキルは不要で、最初の3か月の研修とOJTで鍛えられる。" },
+      { "id": "s-arc-2#p3", "topics": ["culture", "worklife"], "text": "年次に関係なく意見を言うことが求められる文化。提案前の2週間は夜遅くなることもあるが、プロジェクトの合間に1週間ほど休みを取る人が多い。" }
+    ]
+  },
+  {
+    "id": "s-arc-3", "type": "employee_profile", "companyId": "arclight", "jobId": "j-arc", "jobTitle": "戦略コンサルタント",
+    "author": { "alumniId": "al-arc-b", "displayName": "Sさん", "joinYear": 2019 },
+    "date": "2026-01-20", "title": "Sさん｜マネージャー",
+    "consent": { "publicConsent": true, "consentedAt": "2026-01-20" },
+    "passages": [
+      { "id": "s-arc-3#p1", "topics": ["career"], "text": "2019年に新卒入社。消費財、製薬のプロジェクトを経験し、2024年にマネージャーに昇格。" },
+      { "id": "s-arc-3#p2", "topics": ["year1", "year3"], "text": "1年目からクライアント役員への報告会に同席し、自分が作ったページを説明する機会もあった。3年目にはクライアントの部長クラスとの日々の議論をリードしていた。" },
+      { "id": "s-arc-3#p3", "topics": ["year5"], "text": "5年目は、プロジェクトの全体設計とチーム3〜4名のマネジメント、クライアントとの関係づくりを担当している。" }
+    ]
+  },
+  {
+    "id": "s-arc-4", "type": "official_content", "companyId": "arclight", "jobId": "j-arc", "jobTitle": "戦略コンサルタント",
+    "author": { "alumniId": null, "displayName": "アークライト戦略研究所 採用チーム", "joinYear": null },
+    "date": "2026-03-01", "title": "キャリアパスと育成",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-arc-4#p1", "topics": ["duties"], "text": "コンサルタントは、企業の全社戦略、事業戦略、組織変革などのプロジェクトに参画します。1チームは3〜5名の少人数です。" },
+      { "id": "s-arc-4#p2", "topics": ["career"], "text": "アナリスト（1〜2年目）→コンサルタント（3〜4年目）→マネージャー（5年目前後）と、成果に応じて昇格します。年次より実績を重視します。" },
+      { "id": "s-arc-4#p3", "topics": ["skills"], "text": "論理的思考力、知的好奇心、そしてチームで成果を出す姿勢を重視しています。" }
+    ]
+  },
+  {
+    "id": "s-arc-5", "type": "visit_record", "companyId": "arclight", "jobId": "j-arc", "jobTitle": "戦略コンサルタント",
+    "author": { "alumniId": null, "displayName": "Tさん", "joinYear": 2023 },
+    "date": "2026-06-01", "title": "（公開同意なし：検索対象外になることの確認用）",
+    "consent": { "publicConsent": false, "consentedAt": null },
+    "passages": [
+      { "id": "s-arc-5#p1", "topics": ["year1", "salary"], "text": "この記録は本人が公開に同意していないため、検索・表示されてはいけない。" }
+    ]
+  },
+
+  {
+    "id": "s-ng-1", "type": "visit_record", "companyId": "northgate", "jobId": "j-ng", "jobTitle": "投資銀行部門アナリスト",
+    "author": { "alumniId": "al-ng-a", "displayName": "Mさん", "joinYear": 2023 },
+    "date": "2026-04-18", "title": "IBDアナリストの1日",
+    "consent": { "publicConsent": true, "consentedAt": "2026-04-19" },
+    "passages": [
+      { "id": "s-ng-1#p1", "topics": ["daily", "worklife"], "text": "朝9時に出社し、海外オフィスからのメールを処理。日中は案件チームのミーティングと資料修正、夕方以降に財務モデルの更新やピッチブック作成を進める。案件が佳境だと深夜まで作業することもある。" },
+      { "id": "s-ng-1#p2", "topics": ["duties", "year1"], "text": "1年目アナリストの仕事は、企業の財務データを集めてバリュエーション（企業価値の算定）を行うこと、ピッチブックと呼ばれる提案資料のページづくり、デューデリジェンス資料の管理。" },
+      { "id": "s-ng-1#p3", "topics": ["year3"], "text": "3年目のアソシエイトになると、アナリストの作業を取りまとめ、クライアント企業の財務担当者と直接やりとりする場面が増える。" }
+    ]
+  },
+  {
+    "id": "s-ng-2", "type": "visit_record", "companyId": "northgate", "jobId": "j-ng", "jobTitle": "投資銀行部門アナリスト",
+    "author": { "alumniId": "al-ng-b", "displayName": "Yさん", "joinYear": 2018 },
+    "date": "2025-12-09", "title": "投資銀行の仕事と求められる正確さ",
+    "consent": { "publicConsent": true, "consentedAt": "2025-12-10" },
+    "passages": [
+      { "id": "s-ng-2#p1", "topics": ["duties"], "text": "投資銀行部門の仕事は、企業の買収・合併（M&A）の助言と、株式や社債による資金調達の支援。案件は数か月から1年以上続く。" },
+      { "id": "s-ng-2#p2", "topics": ["skills"], "text": "会計とファイナンスの基礎、Excelでの財務モデリング、細部まで間違えない正確さが必要。数字が1つ違うだけで資料全体の信頼を失う。" },
+      { "id": "s-ng-2#p3", "topics": ["culture"], "text": "チームは少人数で、上司からのフィードバックは率直で厳しい。ただ、教える文化は強く、ジュニアの成長に時間を使ってくれる。" }
+    ]
+  },
+  {
+    "id": "s-ng-3", "type": "employee_profile", "companyId": "northgate", "jobId": "j-ng", "jobTitle": "投資銀行部門アナリスト",
+    "author": { "alumniId": "al-ng-b", "displayName": "Yさん", "joinYear": 2018 },
+    "date": "2026-02-14", "title": "Yさん｜ヴァイス・プレジデント",
+    "consent": { "publicConsent": true, "consentedAt": "2026-02-14" },
+    "passages": [
+      { "id": "s-ng-3#p1", "topics": ["career"], "text": "2018年新卒入社。テクノロジー業界のM&Aを中心に担当し、2023年にヴァイス・プレジデントへ。" },
+      { "id": "s-ng-3#p2", "topics": ["year1", "year3"], "text": "1年目は財務モデルとピッチブックの作成にひたすら向き合い、2年でモデリングは一通りできるようになった。3年目に初めて案件の実務の窓口を任された。" },
+      { "id": "s-ng-3#p3", "topics": ["year5"], "text": "5年目には、案件の進行管理とクライアントへの提案の主担当を任され、ジュニアの育成も担当した。" }
+    ]
+  },
+  {
+    "id": "s-ng-4", "type": "official_content", "companyId": "northgate", "jobId": "j-ng", "jobTitle": "投資銀行部門アナリスト",
+    "author": { "alumniId": null, "displayName": "ノースゲート・キャピタル証券 採用チーム", "joinYear": null },
+    "date": "2026-02-01", "title": "投資銀行部門の紹介",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-ng-4#p1", "topics": ["duties"], "text": "投資銀行部門は、M&Aアドバイザリーと資本市場業務を通じて、企業の成長戦略を金融面から支えます。" },
+      { "id": "s-ng-4#p2", "topics": ["career", "skills"], "text": "入社後は約2か月の研修で会計・ファイナンス・モデリングを学び、アナリストとして案件に配属されます。専門性を短期間で集中的に高められる環境です。" },
+      { "id": "s-ng-4#p3", "topics": ["skills"], "text": "数字への強い関心、粘り強さ、英語でのコミュニケーション力を求めています。" }
+    ]
+  },
+
+  {
+    "id": "s-skt-1", "type": "visit_record", "companyId": "soukai", "jobId": "j-skt", "jobTitle": "営業（トレーディング）",
+    "author": { "alumniId": "al-skt-a", "displayName": "Hさん", "joinYear": 2021 },
+    "date": "2026-06-02", "title": "商社トレーディングの1日",
+    "consent": { "publicConsent": true, "consentedAt": "2026-06-03" },
+    "passages": [
+      { "id": "s-skt-1#p1", "topics": ["daily"], "text": "朝は海外の相場とニュースを確認し、9時から仕入れ先・販売先との電話やメール。午後は物流会社との船積みの調整や社内の与信手続き、夕方以降は時差のある海外拠点と打ち合わせ。" },
+      { "id": "s-skt-1#p2", "topics": ["duties", "year1"], "text": "1年目は、契約書や船積み書類の作成、受け渡しの管理といった受渡業務が中心。先輩の商談に同行して取引先との関係づくりを学ぶ。" },
+      { "id": "s-skt-1#p3", "topics": ["year3"], "text": "3年目には、中堅規模の取引先を自分で担当し、価格交渉から契約まで任される。" }
+    ]
+  },
+  {
+    "id": "s-skt-2", "type": "visit_record", "companyId": "soukai", "jobId": "j-skt", "jobTitle": "営業（トレーディング）",
+    "author": { "alumniId": "al-skt-b", "displayName": "Nさん", "joinYear": 2016 },
+    "date": "2025-10-21", "title": "トレーディングに必要な力",
+    "consent": { "publicConsent": true, "consentedAt": "2025-10-22" },
+    "passages": [
+      { "id": "s-skt-2#p1", "topics": ["duties"], "text": "トレーディングの仕事は、商品を仕入れて販売先に届け、その間の価格・物流・代金回収のリスクを管理すること。担当は穀物や鉄鉱石など商品ごとに分かれる。" },
+      { "id": "s-skt-2#p2", "topics": ["skills"], "text": "必要なのは、取引先の本音を聞き出す関係構築力と、為替や相場の変動を読む数字の感覚。英語は入社後に伸ばす人も多い。" },
+      { "id": "s-skt-2#p3", "topics": ["culture", "worklife"], "text": "部署ごとのカラーが強いが、全体的に面倒見の良い先輩が多い。海外との会議で朝早かったり夜遅かったりすることがある。" }
+    ]
+  },
+  {
+    "id": "s-skt-3", "type": "employee_profile", "companyId": "soukai", "jobId": "j-skt", "jobTitle": "営業（トレーディング）",
+    "author": { "alumniId": "al-skt-b", "displayName": "Nさん", "joinYear": 2016 },
+    "date": "2026-01-11", "title": "Nさん｜穀物トレーディング課",
+    "consent": { "publicConsent": true, "consentedAt": "2026-01-11" },
+    "passages": [
+      { "id": "s-skt-3#p1", "topics": ["career"], "text": "2016年入社。穀物トレーディングに配属され、2020年から3年間シンガポール駐在。現在は課長代理。" },
+      { "id": "s-skt-3#p2", "topics": ["year1", "year3"], "text": "1年目は受渡業務で書類ミスをして先輩に助けられた。3年目には年間数十億円規模の取引を自分の判断で回していた。" },
+      { "id": "s-skt-3#p3", "topics": ["year5", "career"], "text": "5年目に海外駐在が決まり、現地法人で販売網の拡大を担当した。" }
+    ]
+  },
+  {
+    "id": "s-skt-4", "type": "official_content", "companyId": "soukai", "jobId": "j-skt", "jobTitle": "営業（トレーディング）",
+    "author": { "alumniId": null, "displayName": "蒼海物産 人事部", "joinYear": null },
+    "date": "2026-03-10", "title": "営業職の働き方",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-skt-4#p1", "topics": ["duties"], "text": "営業職は、トレーディングと事業投資の両輪で、世界中の取引先と新しいビジネスを生み出します。" },
+      { "id": "s-skt-4#p2", "topics": ["career"], "text": "入社後は約3〜4年ごとのジョブローテーションで複数の領域を経験し、若手のうちに海外研修・海外駐在の機会があります。" },
+      { "id": "s-skt-4#p3", "topics": ["skills"], "text": "多様な人と信頼関係を築く力、変化をチャンスと捉える姿勢を重視します。" }
+    ]
+  },
+
+  {
+    "id": "s-ski-1", "type": "visit_record", "companyId": "soukai", "jobId": "j-ski", "jobTitle": "事業投資",
+    "author": { "alumniId": "al-ski-a", "displayName": "Oさん", "joinYear": 2020 },
+    "date": "2026-05-27", "title": "事業投資の1日と若手の役割",
+    "consent": { "publicConsent": true, "consentedAt": "2026-05-28" },
+    "passages": [
+      { "id": "s-ski-1#p1", "topics": ["daily"], "text": "午前は投資先企業の月次の業績データを確認し、課題を整理。午後は投資先の経営陣との会議や新規案件の検討会。夜は投資委員会向けの資料を作ることが多い。" },
+      { "id": "s-ski-1#p2", "topics": ["duties", "year1"], "text": "1年目は投資先の業績モニタリングと、新規投資案件の市場調査・財務分析のサポートが中心。" },
+      { "id": "s-ski-1#p3", "topics": ["year3", "career"], "text": "3年目には、投資先に出向して経営企画として働くケースもある。自分は3年目で投資先の事業計画づくりを任された。" }
+    ]
+  },
+  {
+    "id": "s-ski-2", "type": "visit_record", "companyId": "soukai", "jobId": "j-ski", "jobTitle": "事業投資",
+    "author": { "alumniId": "al-ski-b", "displayName": "Rさん", "joinYear": 2015 },
+    "date": "2025-09-15", "title": "事業投資の面白さと厳しさ",
+    "consent": { "publicConsent": true, "consentedAt": "2025-09-16" },
+    "passages": [
+      { "id": "s-ski-2#p1", "topics": ["duties"], "text": "事業投資の仕事は、企業に出資して経営に参画し、企業価値を高めること。投資前の検討、投資後の経営支援、最終的な売却まで長期で関わる。" },
+      { "id": "s-ski-2#p2", "topics": ["skills"], "text": "財務分析とバリュエーションの知識に加えて、投資先の現場の人たちを巻き込む力が欠かせない。" },
+      { "id": "s-ski-2#p3", "topics": ["culture"], "text": "投資判断は社内の議論が厳しく、数字と論理で説明できることが求められる。一方で若手の意見もよく聞いてもらえる。" }
+    ]
+  },
+  {
+    "id": "s-ski-3", "type": "employee_profile", "companyId": "soukai", "jobId": "j-ski", "jobTitle": "事業投資",
+    "author": { "alumniId": "al-ski-b", "displayName": "Rさん", "joinYear": 2015 },
+    "date": "2026-02-03", "title": "Rさん｜インフラ事業投資部",
+    "consent": { "publicConsent": true, "consentedAt": "2026-02-03" },
+    "passages": [
+      { "id": "s-ski-3#p1", "topics": ["career"], "text": "2015年入社。電力インフラの事業投資を担当し、海外の発電事業会社に2年間出向。" },
+      { "id": "s-ski-3#p2", "topics": ["year1", "year3"], "text": "1年目は先輩の案件で財務モデルを作り、3年目に初めて自分の名前で投資提案を出した。" },
+      { "id": "s-ski-3#p3", "topics": ["year5"], "text": "5年目には、出資先の取締役会にオブザーバーとして参加し、経営改善策を提案していた。" }
+    ]
+  },
+  {
+    "id": "s-ski-4", "type": "official_content", "companyId": "soukai", "jobId": "j-ski", "jobTitle": "事業投資",
+    "author": { "alumniId": null, "displayName": "蒼海物産 人事部", "joinYear": null },
+    "date": "2026-03-10", "title": "事業投資とは",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-ski-4#p1", "topics": ["duties"], "text": "事業投資では、出資先の経営に深く関わり、長期的な企業価値の向上を目指します。" },
+      { "id": "s-ski-4#p2", "topics": ["career"], "text": "事業投資部門でも数年ごとのローテーションがあり、出資先への出向や海外研修を通じて経営人材を育成します。" },
+      { "id": "s-ski-4#p3", "topics": ["skills"], "text": "財務・会計の知識は入社後の研修で学べます。当事者意識を持って事業を動かす人を求めています。" }
+    ]
+  },
+
+  {
+    "id": "s-mit-1", "type": "visit_record", "companyId": "miride", "jobId": "j-mit", "jobTitle": "ITコンサルタント",
+    "author": { "alumniId": "al-mit-a", "displayName": "Fさん", "joinYear": 2024 },
+    "date": "2026-07-08", "title": "ITコンサル1年目の働き方",
+    "consent": { "publicConsent": true, "consentedAt": "2026-07-09" },
+    "passages": [
+      { "id": "s-mit-1#p1", "topics": ["daily", "worklife"], "text": "9時半からチームの朝会、午前はシステム要件の整理、午後はクライアントの業務部門との打ち合わせ。在宅勤務と客先常駐が半々で、19時頃に終わる日が多い。" },
+      { "id": "s-mit-1#p2", "topics": ["duties", "year1"], "text": "1年目は、会議の議事録作成、現状業務のヒアリング結果の整理、テスト計画書の作成などを担当。システム導入プロジェクトのPMO（進捗管理）補佐も多い。" },
+      { "id": "s-mit-1#p3", "topics": ["year3"], "text": "3年目には、業務チームのリーダーとして要件定義の会議をファシリテーションし、2〜3名の後輩をまとめる。" }
+    ]
+  },
+  {
+    "id": "s-mit-2", "type": "visit_record", "companyId": "miride", "jobId": "j-mit", "jobTitle": "ITコンサルタント",
+    "author": { "alumniId": "al-mit-b", "displayName": "Wさん", "joinYear": 2019 },
+    "date": "2025-12-18", "title": "ITコンサルに必要なスキル",
+    "consent": { "publicConsent": true, "consentedAt": "2025-12-19" },
+    "passages": [
+      { "id": "s-mit-2#p1", "topics": ["duties"], "text": "ITコンサルの仕事は、クライアントの業務をデジタルで変えること。基幹システムの刷新、クラウド移行、データ活用基盤の構築などのプロジェクトが多い。" },
+      { "id": "s-mit-2#p2", "topics": ["skills"], "text": "プログラミングができなくても入れるが、ITの基礎知識、業務の流れを図にする力、エンジニアとビジネス側の通訳になるコミュニケーション力が必要。" },
+      { "id": "s-mit-2#p3", "topics": ["culture", "worklife"], "text": "大規模プロジェクトが多く、チームで動く文化。リモートワークも浸透していて、有給も取りやすい。" }
+    ]
+  },
+  {
+    "id": "s-mit-3", "type": "employee_profile", "companyId": "miride", "jobId": "j-mit", "jobTitle": "ITコンサルタント",
+    "author": { "alumniId": "al-mit-b", "displayName": "Wさん", "joinYear": 2019 },
+    "date": "2026-02-22", "title": "Wさん｜マネージャー",
+    "consent": { "publicConsent": true, "consentedAt": "2026-02-22" },
+    "passages": [
+      { "id": "s-mit-3#p1", "topics": ["career"], "text": "2019年入社。製造業の基幹システム刷新を3件経験し、2025年にマネージャーに昇格。" },
+      { "id": "s-mit-3#p2", "topics": ["year1", "year3"], "text": "1年目はテストとPMO補佐でプロジェクトの全体像を学んだ。3年目に要件定義のチームリーダーを任された。" },
+      { "id": "s-mit-3#p3", "topics": ["year5"], "text": "5年目には、10名規模のチームのプロジェクトマネジメントと、次の案件の提案書づくりを担当していた。" }
+    ]
+  },
+  {
+    "id": "s-mit-4", "type": "official_content", "companyId": "miride", "jobId": "j-mit", "jobTitle": "ITコンサルタント",
+    "author": { "alumniId": null, "displayName": "ミライド・コンサルティング 採用チーム", "joinYear": null },
+    "date": "2026-04-01", "title": "テクノロジーコンサルタントの育成",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-mit-4#p1", "topics": ["duties"], "text": "テクノロジーコンサルタントは、戦略立案からシステム導入・運用まで、企業のデジタル変革を一貫して支援します。" },
+      { "id": "s-mit-4#p2", "topics": ["career"], "text": "入社後2年間で複数のプロジェクトを経験した後、業界とソリューションの専門領域を選び、専門性を深めていきます。" },
+      { "id": "s-mit-4#p3", "topics": ["skills"], "text": "入社時に必要なITスキルはありません。3か月の研修でITとコンサルティングの基礎を学びます。" }
+    ]
+  },
+
+  {
+    "id": "s-mib-1", "type": "visit_record", "companyId": "miride", "jobId": "j-mib", "jobTitle": "ビジネスコンサルタント",
+    "author": { "alumniId": "al-mib-a", "displayName": "Gさん", "joinYear": 2022 },
+    "date": "2026-03-30", "title": "業務改革コンサルの日常",
+    "consent": { "publicConsent": true, "consentedAt": "2026-03-31" },
+    "passages": [
+      { "id": "s-mib-1#p1", "topics": ["daily"], "text": "朝会のあと、午前は分析作業やクライアントのデータ集計、午後はクライアントとのワークショップの準備と実施。夕方にマネージャーと翌日の資料を詰める。" },
+      { "id": "s-mib-1#p2", "topics": ["duties", "year1"], "text": "1年目は、業務の現状分析（どこに時間やコストがかかっているか）のデータ整理、会議資料の作成、ワークショップの運営補助が中心。" },
+      { "id": "s-mib-1#p3", "topics": ["year3"], "text": "3年目には、業務改革のテーマを1つ担当し、クライアントの課長と一緒に新しい業務の進め方を設計する。" }
+    ]
+  },
+  {
+    "id": "s-mib-2", "type": "visit_record", "companyId": "miride", "jobId": "j-mib", "jobTitle": "ビジネスコンサルタント",
+    "author": { "alumniId": "al-mib-b", "displayName": "Eさん", "joinYear": 2018 },
+    "date": "2025-11-25", "title": "現場に伴走するコンサル",
+    "consent": { "publicConsent": true, "consentedAt": "2025-11-26" },
+    "passages": [
+      { "id": "s-mib-2#p1", "topics": ["duties"], "text": "ビジネスコンサルの仕事は、営業改革、サプライチェーン改革、組織・人事改革など、企業の業務と組織を良くすること。戦略を作るだけでなく、現場に定着するまで伴走する。" },
+      { "id": "s-mib-2#p2", "topics": ["skills"], "text": "データを整理して示唆を出す力、関係者の合意をつくるファシリテーション力が重要。Excelとパワーポイントは1年目で必ず使いこなせるようになる。" },
+      { "id": "s-mib-2#p3", "topics": ["culture"], "text": "人数が多い分、さまざまなバックグラウンドの人がいる。相談すれば誰かが助けてくれる雰囲気。" }
+    ]
+  },
+  {
+    "id": "s-mib-3", "type": "employee_profile", "companyId": "miride", "jobId": "j-mib", "jobTitle": "ビジネスコンサルタント",
+    "author": { "alumniId": "al-mib-b", "displayName": "Eさん", "joinYear": 2018 },
+    "date": "2026-01-29", "title": "Eさん｜シニアコンサルタント",
+    "consent": { "publicConsent": true, "consentedAt": "2026-01-29" },
+    "passages": [
+      { "id": "s-mib-3#p1", "topics": ["career"], "text": "2018年入社。小売業の営業改革、物流業のサプライチェーン改革を担当。" },
+      { "id": "s-mib-3#p2", "topics": ["year1", "year3"], "text": "1年目は資料作成とデータ分析で手一杯だったが、3年目にはクライアントの現場に入り込んで改革のテーマを主導していた。" },
+      { "id": "s-mib-3#p3", "topics": ["year5"], "text": "5年目には複数テーマを束ねるリーダーとして、クライアントの役員への報告も担当した。" }
+    ]
+  },
+  {
+    "id": "s-mib-4", "type": "official_content", "companyId": "miride", "jobId": "j-mib", "jobTitle": "ビジネスコンサルタント",
+    "author": { "alumniId": null, "displayName": "ミライド・コンサルティング 採用チーム", "joinYear": null },
+    "date": "2026-04-01", "title": "ビジネスコンサルタントのキャリア",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-mib-4#p1", "topics": ["duties"], "text": "ビジネスコンサルタントは、戦略の実行と業務・組織の変革を、クライアントと共に推進します。" },
+      { "id": "s-mib-4#p2", "topics": ["career"], "text": "業界（金融・製造・消費財など）×テーマ（営業・SCM・人事など）で専門領域を持ち、プロジェクトを通じて専門性を深めます。" },
+      { "id": "s-mib-4#p3", "topics": ["skills"], "text": "変化を楽しみ、人を巻き込んで物事を前に進められる人を求めています。" }
+    ]
+  },
+
+  {
+    "id": "s-hk-1", "type": "visit_record", "companyId": "hakuyo", "jobId": "j-hk", "jobTitle": "アカウントプランナー（営業）",
+    "author": { "alumniId": "al-hk-a", "displayName": "Iさん", "joinYear": 2023 },
+    "date": "2026-06-20", "title": "広告代理店の営業の1日",
+    "consent": { "publicConsent": true, "consentedAt": "2026-06-21" },
+    "passages": [
+      { "id": "s-hk-1#p1", "topics": ["daily"], "text": "朝はクライアントからの連絡を確認し、午前は社内のクリエイティブチーム、メディアチームとの打ち合わせ。午後はクライアントへの提案や撮影の立ち会い。夜は進行中の案件の見積もりやスケジュール調整。" },
+      { "id": "s-hk-1#p2", "topics": ["duties", "year1"], "text": "1年目は、先輩営業のアシスタントとして、議事録、見積書、進行スケジュールの作成、制作会社とのやりとりを担当する。" },
+      { "id": "s-hk-1#p3", "topics": ["year3"], "text": "3年目には、商品キャンペーンを1本まるごと担当し、予算管理から社内チームのとりまとめまでを任される。" }
+    ]
+  },
+  {
+    "id": "s-hk-2", "type": "visit_record", "companyId": "hakuyo", "jobId": "j-hk", "jobTitle": "アカウントプランナー（営業）",
+    "author": { "alumniId": "al-hk-b", "displayName": "Uさん", "joinYear": 2017 },
+    "date": "2025-10-08", "title": "アカウントプランナーという仕事",
+    "consent": { "publicConsent": true, "consentedAt": "2025-10-09" },
+    "passages": [
+      { "id": "s-hk-2#p1", "topics": ["duties"], "text": "アカウントプランナーは、クライアントの窓口となり、課題をヒアリングして、広告・PR・デジタル施策を社内のチームと組み立てて提案する仕事。" },
+      { "id": "s-hk-2#p2", "topics": ["skills", "worklife"], "text": "社内外のたくさんの人を動かす調整力、クライアントの事業を理解する力が必要。撮影やイベント前は忙しくなるが、以前に比べて残業はかなり減った。" },
+      { "id": "s-hk-2#p3", "topics": ["year3", "career"], "text": "2年目から中規模のクライアントの窓口を任されることが多く、早いうちから自分の名前で仕事ができる。" }
+    ]
+  },
+  {
+    "id": "s-hk-3", "type": "employee_profile", "companyId": "hakuyo", "jobId": "j-hk", "jobTitle": "アカウントプランナー（営業）",
+    "author": { "alumniId": "al-hk-b", "displayName": "Uさん", "joinYear": 2017 },
+    "date": "2026-02-10", "title": "Uさん｜営業局 チームリーダー",
+    "consent": { "publicConsent": true, "consentedAt": "2026-02-10" },
+    "passages": [
+      { "id": "s-hk-3#p1", "topics": ["career"], "text": "2017年入社。飲料メーカー、化粧品メーカーを担当し、2023年からチームリーダー。" },
+      { "id": "s-hk-3#p2", "topics": ["year1", "year3"], "text": "1年目は先輩の担当する飲料の案件で、とにかく現場に出て制作の流れを覚えた。3年目には化粧品ブランドの年間プロモーションを担当した。" },
+      { "id": "s-hk-3#p3", "topics": ["year5"], "text": "5年目にはクライアントのマーケティング部長と年間の戦略を議論し、数億円規模の予算を任されていた。" }
+    ]
+  },
+  {
+    "id": "s-hk-4", "type": "official_content", "companyId": "hakuyo", "jobId": "j-hk", "jobTitle": "アカウントプランナー（営業）",
+    "author": { "alumniId": null, "displayName": "博陽エージェンシー 人事局", "joinYear": null },
+    "date": "2026-03-20", "title": "営業職（アカウントプランナー）",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-hk-4#p1", "topics": ["duties"], "text": "アカウントプランナーは、クライアントのビジネス課題を起点に、統合的なコミュニケーション施策をプロデュースします。" },
+      { "id": "s-hk-4#p2", "topics": ["career"], "text": "若手のうちからクライアントの窓口を担当し、早い段階で裁量を持って案件を動かします。" },
+      { "id": "s-hk-4#p3", "topics": ["skills"], "text": "好奇心と、人を巻き込んで最後までやり切る力を大切にしています。" }
+    ]
+  },
+
+  {
+    "id": "s-lm-1", "type": "visit_record", "companyId": "lumina", "jobId": "j-lm", "jobTitle": "事業開発（BizDev）",
+    "author": { "alumniId": "al-lm-a", "displayName": "Jさん", "joinYear": 2024 },
+    "date": "2026-08-05", "title": "スタートアップの事業開発1年目",
+    "consent": { "publicConsent": true, "consentedAt": "2026-08-06" },
+    "passages": [
+      { "id": "s-lm-1#p1", "topics": ["daily"], "text": "朝は全社のSlackで数字を確認し、午前はクリニックへの商談、午後は提携先の企業との打ち合わせや社内のプロダクト会議。日によって仕事内容がまったく違う。" },
+      { "id": "s-lm-1#p2", "topics": ["duties", "year1"], "text": "入社半年で、新しく始める健康診断の予約サービスの立ち上げ担当になった。1年目から提携先の開拓、料金設計、営業資料づくりまで自分でやる。" },
+      { "id": "s-lm-1#p3", "topics": ["culture"], "text": "社員は30名ほどで、社長とも毎日話す距離感。決まったやり方がないので、自分で考えて動ける人には楽しい環境。" }
+    ]
+  },
+  {
+    "id": "s-lm-2", "type": "visit_record", "companyId": "lumina", "jobId": "j-lm", "jobTitle": "事業開発（BizDev）",
+    "author": { "alumniId": "al-lm-b", "displayName": "Pさん", "joinYear": 2021 },
+    "date": "2025-12-01", "title": "事業開発に必要な力",
+    "consent": { "publicConsent": true, "consentedAt": "2025-12-02" },
+    "passages": [
+      { "id": "s-lm-2#p1", "topics": ["duties"], "text": "事業開発の仕事は、新しい事業や提携をつくって売上を伸ばすこと。市場調査、提携先との交渉、営業、事業計画づくりまで幅広い。" },
+      { "id": "s-lm-2#p2", "topics": ["skills"], "text": "仮説を立てて素早く試す力、数字で事業を語る力が必要。医療の知識は入社してから勉強した。" },
+      { "id": "s-lm-2#p3", "topics": ["worklife"], "text": "フレックスとリモートを組み合わせて働いている。立ち上げ前は忙しいが、自分でペースを調整できる。" }
+    ]
+  },
+  {
+    "id": "s-lm-3", "type": "employee_profile", "companyId": "lumina", "jobId": "j-lm", "jobTitle": "事業開発（BizDev）",
+    "author": { "alumniId": "al-lm-b", "displayName": "Pさん", "joinYear": 2021 },
+    "date": "2026-03-05", "title": "Pさん｜事業開発リード",
+    "consent": { "publicConsent": true, "consentedAt": "2026-03-05" },
+    "passages": [
+      { "id": "s-lm-3#p1", "topics": ["career"], "text": "2021年に新卒1期生として入社。営業を経て事業開発へ。現在は事業開発チームのリード。" },
+      { "id": "s-lm-3#p2", "topics": ["year1", "year3"], "text": "1年目にクリニック向け問診サービスの営業で全国トップの成績を出し、2年目に事業開発に異動。3年目には新規事業の責任者になった。" },
+      { "id": "s-lm-3#p3", "topics": ["year5", "career"], "text": "入社5年目の現在は、事業開発チーム4名を率い、資金調達の際には投資家向けの事業計画の作成にも関わっている。" }
+    ]
+  },
+  {
+    "id": "s-lm-4", "type": "official_content", "companyId": "lumina", "jobId": "j-lm", "jobTitle": "事業開発（BizDev）",
+    "author": { "alumniId": null, "displayName": "ルミナ・ヘルステック 採用担当", "joinYear": null },
+    "date": "2026-02-15", "title": "採用ページ：事業開発",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-lm-4#p1", "topics": ["duties"], "text": "事業開発は、医療機関と患者をつなぐ新サービスの企画・提携・立ち上げを担います。" },
+      { "id": "s-lm-4#p2", "topics": ["career"], "text": "年次に関係なく、成果を出した人に大きな役割を任せます。" },
+      { "id": "s-lm-4#p3", "topics": ["skills"], "text": "変化の速い環境で、自分で課題を見つけて動ける人を歓迎します。" }
+    ]
+  },
+
+  {
+    "id": "s-ct-1", "type": "visit_record", "companyId": "catalyst", "jobId": "j-ct", "jobTitle": "カスタマーサクセス",
+    "author": { "alumniId": "al-ct-a", "displayName": "Lさん", "joinYear": 2024 },
+    "date": "2026-07-22", "title": "物流SaaSのカスタマーサクセス",
+    "consent": { "publicConsent": true, "consentedAt": "2026-07-23" },
+    "passages": [
+      { "id": "s-ct-1#p1", "topics": ["daily"], "text": "朝は顧客からの問い合わせを確認し、午前は導入したばかりの物流会社とのオンライン打ち合わせ。午後は顧客の倉庫を訪問して使い方を説明したり、プロダクトチームに要望を伝えたりする。" },
+      { "id": "s-ct-1#p2", "topics": ["duties", "year1"], "text": "1年目は、新規顧客の導入支援（初期設定、操作説明会）と、利用状況のデータを見て使われていない顧客をフォローすることが中心。" },
+      { "id": "s-ct-1#p3", "topics": ["year3"], "text": "3年目のイメージは、大口顧客を担当しながら、導入の進め方そのものを改善する仕組みづくりを任されること。" }
+    ]
+  },
+  {
+    "id": "s-ct-2", "type": "visit_record", "companyId": "catalyst", "jobId": "j-ct", "jobTitle": "カスタマーサクセス",
+    "author": { "alumniId": "al-ct-b", "displayName": "Qさん", "joinYear": 2022 },
+    "date": "2025-11-12", "title": "CSの役割とキャリア",
+    "consent": { "publicConsent": true, "consentedAt": "2025-11-13" },
+    "passages": [
+      { "id": "s-ct-2#p1", "topics": ["duties"], "text": "カスタマーサクセスは、顧客がサービスを使いこなして成果を出せるように支援する仕事。解約を防ぎ、より上位のプランを提案することも役割に含まれる。" },
+      { "id": "s-ct-2#p2", "topics": ["career"], "text": "2年目でCSチームのリーダーになった。顧客の声をプロダクトに直接反映でき、自分の提案した機能がリリースされたこともある。" },
+      { "id": "s-ct-2#p3", "topics": ["skills"], "text": "物流の現場を理解する力、データを見て先回りする力、相手の業務に寄り添うコミュニケーションが大事。" }
+    ]
+  },
+  {
+    "id": "s-ct-3", "type": "employee_profile", "companyId": "catalyst", "jobId": "j-ct", "jobTitle": "カスタマーサクセス",
+    "author": { "alumniId": "al-ct-b", "displayName": "Qさん", "joinYear": 2022 },
+    "date": "2026-02-26", "title": "Qさん｜CSチームリーダー",
+    "consent": { "publicConsent": true, "consentedAt": "2026-02-26" },
+    "passages": [
+      { "id": "s-ct-3#p1", "topics": ["career"], "text": "2022年入社。CSとして約40社の導入を担当し、2年目からチームリーダー。" },
+      { "id": "s-ct-3#p2", "topics": ["year1", "year3"], "text": "1年目は現場の倉庫に何度も通い、物流の仕事を体で覚えた。3年目にはCSの業務フローを作り直し、導入期間を半分にした。" },
+      { "id": "s-ct-3#p3", "topics": ["culture"], "text": "社員20名ほどで、エンジニアとの距離が近い。顧客の声をすぐ開発に届けられるのが魅力。" }
+    ]
+  },
+  {
+    "id": "s-ct-4", "type": "official_content", "companyId": "catalyst", "jobId": "j-ct", "jobTitle": "カスタマーサクセス",
+    "author": { "alumniId": null, "displayName": "カタリスト・ロジ 採用担当", "joinYear": null },
+    "date": "2026-01-30", "title": "カスタマーサクセス職",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-ct-4#p1", "topics": ["duties"], "text": "カスタマーサクセスは、物流会社のDXを最前線で支援し、顧客の成果にコミットします。" },
+      { "id": "s-ct-4#p2", "topics": ["worklife"], "text": "フルリモートも可能ですが、顧客訪問がある日は現地に向かいます。" },
+      { "id": "s-ct-4#p3", "topics": ["skills"], "text": "物流の知識は不要です。顧客の課題に向き合い続けられる人を求めています。" }
+    ]
+  },
+
+  {
+    "id": "s-th-1", "type": "visit_record", "companyId": "toho", "jobId": "j-th", "jobTitle": "法人営業",
+    "author": { "alumniId": "al-th-a", "displayName": "Vさん", "joinYear": 2023 },
+    "date": "2026-05-15", "title": "メーカー法人営業の1日",
+    "consent": { "publicConsent": true, "consentedAt": "2026-05-16" },
+    "passages": [
+      { "id": "s-th-1#p1", "topics": ["daily", "worklife"], "text": "8時半に出社し、午前は社内で見積もりや技術部門との打ち合わせ。午後は担当エリアの工場を2〜3社訪問する。17時半〜18時半頃に退社する日が多い。" },
+      { "id": "s-th-1#p2", "topics": ["duties", "year1"], "text": "入社後半年は工場実習で製品の仕組みを学び、その後1年目の後半は既存顧客のルート営業を先輩と一緒に担当する。" },
+      { "id": "s-th-1#p3", "topics": ["year3"], "text": "3年目には担当エリアを一人で持ち、新しい設備の導入を検討している顧客に、技術者と一緒に提案する。" }
+    ]
+  },
+  {
+    "id": "s-th-2", "type": "visit_record", "companyId": "toho", "jobId": "j-th", "jobTitle": "法人営業",
+    "author": { "alumniId": "al-th-b", "displayName": "Xさん", "joinYear": 2014 },
+    "date": "2025-09-30", "title": "工作機械の法人営業とは",
+    "consent": { "publicConsent": true, "consentedAt": "2025-10-01" },
+    "passages": [
+      { "id": "s-th-2#p1", "topics": ["duties"], "text": "法人営業は、自動車部品メーカーなどの工場に工作機械を提案し、導入後のメンテナンスまでフォローする仕事。1台数千万円の商品なので、検討期間は半年〜1年と長い。" },
+      { "id": "s-th-2#p2", "topics": ["skills"], "text": "機械の専門知識は入社後に学べる。顧客の生産現場の課題を聞き出す力と、社内の技術者を巻き込む力が大切。" },
+      { "id": "s-th-2#p3", "topics": ["worklife", "culture"], "text": "残業は月20時間程度で、土日はしっかり休める。転勤はあるが、長く働く人が多く落ち着いた雰囲気。" }
+    ]
+  },
+  {
+    "id": "s-th-3", "type": "employee_profile", "companyId": "toho", "jobId": "j-th", "jobTitle": "法人営業",
+    "author": { "alumniId": "al-th-b", "displayName": "Xさん", "joinYear": 2014 },
+    "date": "2026-01-15", "title": "Xさん｜名古屋支店 営業課長",
+    "consent": { "publicConsent": true, "consentedAt": "2026-01-15" },
+    "passages": [
+      { "id": "s-th-3#p1", "topics": ["career"], "text": "2014年入社。大阪支店、海外営業部（タイ駐在3年）を経て、現在は名古屋支店の営業課長。" },
+      { "id": "s-th-3#p2", "topics": ["year1", "year3"], "text": "1年目は工場実習で旋盤を自分で操作した経験が、今も提案の土台になっている。3年目には大手自動車部品メーカーの担当を任された。" },
+      { "id": "s-th-3#p3", "topics": ["year5", "career"], "text": "5年目には海外営業部に異動し、タイで現地の日系工場向けの営業を担当した。" }
+    ]
+  },
+  {
+    "id": "s-th-4", "type": "official_content", "companyId": "toho", "jobId": "j-th", "jobTitle": "法人営業",
+    "author": { "alumniId": null, "displayName": "東邦精機工業 人事部", "joinYear": null },
+    "date": "2026-02-20", "title": "新人育成プログラム",
+    "consent": { "publicConsent": true, "consentedAt": null },
+    "passages": [
+      { "id": "s-th-4#p1", "topics": ["career"], "text": "入社後は半年間の工場実習で製品知識と製造現場を学び、その後OJTで先輩とともに営業活動を行います。" },
+      { "id": "s-th-4#p2", "topics": ["duties"], "text": "営業職は、国内外の製造業のお客様の生産性向上を、工作機械と精密部品で支えます。" },
+      { "id": "s-th-4#p3", "topics": ["skills"], "text": "誠実さと、お客様の課題を粘り強く解決する姿勢を求めています。" }
+    ]
+  }
+]

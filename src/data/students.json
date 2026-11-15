@@ -1,0 +1,2106 @@
+[
+  {
+    "id": "stu-01",
+    "anonId": "学生#5362",
+    "grade": "学部3年",
+    "major": "国際教養学部",
+    "interests": [
+      "商社"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-21T19:22:48.418Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-08T14:00:20.174Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T12:45:24.341Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      }
+    ]
+  },
+  {
+    "id": "stu-02",
+    "anonId": "学生#1169",
+    "grade": "学部4年",
+    "major": "文学部",
+    "interests": [
+      "メーカー"
+    ],
+    "events": [
+      {
+        "type": "view_visit",
+        "ts": "2026-10-15T13:36:07.525Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-18T17:22:25.089Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-18T18:45:24.551Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-22T02:05:15.515Z",
+        "question": "東邦精機の法人営業の残業は？",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-22T04:51:31.519Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-23T08:41:52.667Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-04T09:40:42.202Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-05T12:30:34.963Z",
+        "question": "蒼海物産の海外駐在のキャリアは？",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-08T00:10:58.847Z",
+        "question": "東邦精機の面接では何を聞かれる？",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-09T21:14:58.400Z",
+        "question": "商社のトレーディングの1年目の仕事は？",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-10T09:25:03.798Z",
+        "companyId": "toho"
+      }
+    ]
+  },
+  {
+    "id": "stu-03",
+    "anonId": "学生#3074",
+    "grade": "学部3年",
+    "major": "文学部",
+    "interests": [
+      "コンサル",
+      "商社"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-15T08:25:27.098Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-15T21:08:00.832Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-17T11:00:26.546Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-18T12:36:14.475Z",
+        "question": "アークライトの年収はどれくらい？",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-20T05:08:26.620Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-22T10:06:06.079Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-22T12:35:33.683Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T17:38:34.797Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T00:52:14.512Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T08:37:15.162Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-24T12:30:22.885Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-25T17:40:51.956Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-25T23:57:42.897Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T02:47:40.885Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T10:41:36.946Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T23:26:10.234Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-03T22:59:19.753Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-11-04T02:54:40.437Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-06T02:26:50.157Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-06T04:06:26.570Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-08T12:49:28.304Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-09T10:20:12.452Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T04:13:48.256Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T04:16:18.773Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      }
+    ]
+  },
+  {
+    "id": "stu-04",
+    "anonId": "学生#3778",
+    "grade": "学部3年",
+    "major": "国際教養学部",
+    "interests": [
+      "商社",
+      "コンサル"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-15T05:44:54.024Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-15T16:09:42.402Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-16T04:49:27.822Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-10-18T17:19:04.908Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-20T13:15:12.661Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-20T16:12:24.063Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-20T19:15:22.484Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-21T17:00:04.614Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T01:47:24.616Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T04:49:43.781Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-22T12:34:22.278Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T22:35:09.129Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-26T00:49:35.485Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-29T05:57:18.207Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T11:54:23.499Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T18:53:38.470Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-30T02:06:28.110Z",
+        "question": "博陽エージェンシーで5年目に任される仕事は？",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-30T22:28:10.174Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-31T03:30:49.208Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-31T21:54:31.757Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-01T02:58:00.791Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-01T03:23:36.803Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-01T09:44:53.157Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-02T21:25:00.943Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-03T04:21:07.882Z",
+        "question": "蒼海物産の事業投資の残業はどれくらい？",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-06T17:15:42.625Z",
+        "question": "ミライドの福利厚生は？"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-06T19:35:45.602Z",
+        "question": "アークライトの年収はどれくらい？",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-07T00:08:15.399Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-07T06:05:23.743Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-07T18:31:00.685Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-08T21:18:13.037Z",
+        "question": "広告代理店の営業の1日は？",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-09T20:47:14.156Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-11T18:01:53.075Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-12T17:03:34.235Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-13T03:07:32.148Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      }
+    ]
+  },
+  {
+    "id": "stu-05",
+    "anonId": "学生#9005",
+    "grade": "学部3年",
+    "major": "商学部",
+    "interests": [
+      "スタートアップ",
+      "コンサル"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-17T08:36:09.869Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-17T12:28:52.376Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-17T16:25:30.859Z",
+        "question": "ミライドのITコンサルの働き方は？",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-18T00:24:48.958Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-22T05:35:45.756Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T19:38:31.254Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-23T09:02:16.375Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-24T11:42:00.216Z",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T09:00:23.634Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-26T05:52:34.445Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-26T10:42:46.238Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-27T19:23:42.066Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T22:44:42.057Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T10:00:32.273Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T20:29:21.064Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T11:21:37.520Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-01T18:25:54.903Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-02T12:04:22.206Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-03T12:59:25.951Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "visit_request",
+        "ts": "2026-11-05T09:11:15.358Z",
+        "alumniId": "al-mib-b",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-11-07T16:49:25.459Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-08T21:16:54.697Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-09T01:51:30.334Z",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-10T04:58:24.113Z",
+        "question": "アークライトで3年目に任される仕事は？",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-10T16:50:56.787Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-10T21:27:39.995Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T23:52:02.229Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      }
+    ]
+  },
+  {
+    "id": "stu-06",
+    "anonId": "学生#2156",
+    "grade": "学部3年",
+    "major": "法学部",
+    "interests": [
+      "メーカー"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-18T03:39:23.476Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-01T03:35:54.724Z",
+        "companyId": "soukai"
+      }
+    ]
+  },
+  {
+    "id": "stu-07",
+    "anonId": "学生#6336",
+    "grade": "修士1年",
+    "major": "国際教養学部",
+    "interests": [
+      "金融"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-15T18:46:13.730Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-16T05:17:09.845Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-18T05:59:22.710Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T04:25:33.474Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "visit_request",
+        "ts": "2026-10-22T07:57:35.463Z",
+        "alumniId": "al-lm-a",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-22T22:27:56.925Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T12:04:48.382Z",
+        "companyId": "northgate"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-27T02:19:56.375Z",
+        "question": "投資銀行のアナリストに必要なスキルは？",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T09:11:33.813Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T15:36:33.241Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-30T17:27:21.592Z",
+        "question": "IBDの1年目は何をする？",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-31T19:53:57.600Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-05T04:12:06.053Z",
+        "question": "事業投資の3年目は何を任される？",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-05T07:41:27.164Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-11-08T00:25:21.863Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-08T22:10:27.370Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T00:21:28.378Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T23:40:55.306Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      }
+    ]
+  },
+  {
+    "id": "stu-08",
+    "anonId": "学生#2008",
+    "grade": "学部4年",
+    "major": "理工学部",
+    "interests": [
+      "広告・マーケ",
+      "コンサル"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-15T07:32:06.240Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-15T11:27:46.444Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-16T07:49:13.078Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-18T10:35:00.803Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-19T06:40:19.593Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-20T14:30:48.125Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-20T20:15:13.086Z",
+        "question": "ルミナ・ヘルステックの住宅手当は？",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-21T22:56:06.478Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-23T17:26:58.689Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-24T19:14:12.215Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-07T01:55:13.142Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-08T00:06:50.867Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-08T07:35:49.977Z",
+        "question": "ルミナの社風は？",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-10T09:37:09.435Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-11T12:29:02.959Z",
+        "question": "ミライドのITコンサルの働き方は？",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      }
+    ]
+  },
+  {
+    "id": "stu-09",
+    "anonId": "学生#4867",
+    "grade": "学部3年",
+    "major": "商学部",
+    "interests": [
+      "金融"
+    ],
+    "events": [
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-17T15:22:59.296Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-18T14:49:37.003Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T00:43:58.278Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-22T06:23:46.793Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T20:56:59.337Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-23T17:22:28.580Z",
+        "question": "アークライトの年収はどれくらい？",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-23T19:57:46.479Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-24T04:49:12.320Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-24T21:14:48.292Z",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T00:12:38.185Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T05:12:23.769Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-25T10:02:02.748Z",
+        "question": "蒼海物産の海外駐在のキャリアは？",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-10-25T17:27:05.581Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-27T03:32:43.389Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-27T07:05:23.592Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T08:34:59.479Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-03T15:29:10.684Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-04T02:59:54.481Z",
+        "question": "蒼海物産の事業投資の残業はどれくらい？",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-04T03:58:32.408Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-05T15:08:35.589Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "visit_request",
+        "ts": "2026-11-07T07:27:42.829Z",
+        "alumniId": "al-arc-b",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-07T19:02:28.478Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T22:39:49.261Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T02:45:57.394Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      }
+    ]
+  },
+  {
+    "id": "stu-10",
+    "anonId": "学生#8400",
+    "grade": "学部3年",
+    "major": "情報学部",
+    "interests": [
+      "コンサル",
+      "商社"
+    ],
+    "events": [
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-17T11:55:56.070Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-23T06:55:35.657Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T17:25:17.409Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T02:56:09.586Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-25T09:59:27.183Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-31T07:46:12.492Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-02T02:13:29.170Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-02T23:15:58.875Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-08T23:03:34.100Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-11T12:48:58.444Z",
+        "question": "ITコンサルにプログラミングスキルは必要？",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T22:02:59.305Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-13T04:36:05.889Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      }
+    ]
+  },
+  {
+    "id": "stu-11",
+    "anonId": "学生#6468",
+    "grade": "学部3年",
+    "major": "経済学部",
+    "interests": [
+      "メーカー"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-15T09:25:14.787Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-15T15:29:06.727Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-10-16T18:48:27.258Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-23T13:09:26.899Z",
+        "question": "博陽エージェンシーで5年目に任される仕事は？",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-26T23:45:47.033Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-27T08:08:42.361Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-27T18:48:23.608Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T16:41:17.264Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T17:29:42.364Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T13:36:14.503Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-30T16:49:58.067Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-31T13:49:43.811Z",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-01T07:04:00.203Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-01T13:54:35.687Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-03T03:27:36.596Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-05T05:40:39.585Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T10:46:17.588Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-12T16:43:49.679Z",
+        "question": "コンサルの1年目は具体的に何をする？"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-13T12:23:41.873Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      }
+    ]
+  },
+  {
+    "id": "stu-12",
+    "anonId": "学生#6238",
+    "grade": "学部3年",
+    "major": "情報学部",
+    "interests": [
+      "商社"
+    ],
+    "events": [
+      {
+        "type": "ask",
+        "ts": "2026-10-15T14:30:54.097Z",
+        "question": "蒼海物産の事業投資の残業はどれくらい？",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-16T08:57:43.143Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-17T16:09:38.806Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-23T07:51:32.039Z",
+        "question": "事業投資の3年目は何を任される？",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-25T18:12:35.343Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-25T21:29:01.348Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-27T20:23:37.243Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-02T21:05:19.522Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-06T03:39:22.245Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-13T10:58:59.010Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      }
+    ]
+  },
+  {
+    "id": "stu-13",
+    "anonId": "学生#8057",
+    "grade": "学部3年",
+    "major": "商学部",
+    "interests": [
+      "メーカー"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-18T13:22:27.076Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-20T02:37:50.859Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-20T02:37:54.013Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-20T10:01:20.547Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-21T21:43:39.383Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-22T23:28:51.229Z",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-28T14:21:09.580Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-29T03:24:43.731Z",
+        "question": "東邦精機の面接では何を聞かれる？",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-01T13:32:23.179Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-04T11:12:07.280Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-06T09:53:40.703Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-07T21:47:29.776Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-09T12:15:51.063Z",
+        "question": "コンサルの1年目は具体的に何をする？"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-10T16:35:20.827Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      }
+    ]
+  },
+  {
+    "id": "stu-14",
+    "anonId": "学生#7703",
+    "grade": "学部3年",
+    "major": "商学部",
+    "interests": [
+      "コンサル"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-17T04:36:45.739Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-19T13:30:39.068Z",
+        "question": "広告代理店の営業の1日は？",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-19T21:16:24.521Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-29T04:17:51.087Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-01T23:46:38.190Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-06T03:37:05.726Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-07T15:29:33.262Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-07T17:51:09.831Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T08:32:36.802Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      }
+    ]
+  },
+  {
+    "id": "stu-15",
+    "anonId": "学生#3885",
+    "grade": "学部4年",
+    "major": "法学部",
+    "interests": [
+      "メーカー"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-15T13:17:17.476Z",
+        "companyId": "toho"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-15T15:45:30.181Z",
+        "question": "蒼海物産の海外駐在のキャリアは？",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-17T17:47:28.050Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-20T23:53:07.490Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T00:24:03.850Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-31T02:48:58.754Z",
+        "question": "ルミナ・ヘルステックの住宅手当は？",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-01T21:20:46.214Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-03T19:07:55.674Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-04T10:58:45.730Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-06T12:11:58.873Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T12:48:34.167Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-12T11:53:32.372Z",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-13T06:11:50.768Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      }
+    ]
+  },
+  {
+    "id": "stu-16",
+    "anonId": "学生#2653",
+    "grade": "修士1年",
+    "major": "経済学部",
+    "interests": [
+      "広告・マーケ"
+    ],
+    "events": [
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-16T07:12:25.647Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-21T06:23:17.578Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T12:51:10.501Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-03T02:00:24.021Z",
+        "question": "事業投資の3年目は何を任される？",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-05T02:04:08.219Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-06T09:56:21.688Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T04:25:52.334Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      }
+    ]
+  },
+  {
+    "id": "stu-17",
+    "anonId": "学生#6551",
+    "grade": "学部3年",
+    "major": "国際教養学部",
+    "interests": [
+      "金融",
+      "広告・マーケ"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-23T22:03:05.039Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-28T01:08:02.934Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-29T22:47:44.261Z",
+        "question": "広告代理店の営業の1日は？",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      }
+    ]
+  },
+  {
+    "id": "stu-18",
+    "anonId": "学生#5668",
+    "grade": "学部3年",
+    "major": "理工学部",
+    "interests": [
+      "広告・マーケ"
+    ],
+    "events": [
+      {
+        "type": "view_company",
+        "ts": "2026-10-16T18:44:20.299Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-17T15:37:59.529Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-18T06:43:26.344Z",
+        "question": "カタリスト・ロジのCSの5年目のキャリアは？",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-19T22:30:31.462Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-19T22:48:28.676Z",
+        "question": "ルミナ・ヘルステックの住宅手当は？",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-23T22:17:52.431Z",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-26T14:34:34.581Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-27T21:09:51.117Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-29T03:32:14.672Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "visit_request",
+        "ts": "2026-10-31T04:28:36.750Z",
+        "alumniId": "al-hk-b",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-03T06:57:27.032Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-09T00:57:30.464Z",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-11-10T18:57:46.014Z",
+        "jobId": "j-hk",
+        "companyId": "hakuyo"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-11T19:12:28.208Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      }
+    ]
+  },
+  {
+    "id": "stu-19",
+    "anonId": "学生#2701",
+    "grade": "学部3年",
+    "major": "経済学部",
+    "interests": [
+      "コンサル",
+      "メーカー"
+    ],
+    "events": [
+      {
+        "type": "visit_request",
+        "ts": "2026-10-16T10:53:38.443Z",
+        "alumniId": "al-mit-a",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-17T01:59:11.245Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-17T14:57:55.462Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-21T19:37:20.583Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-21T19:47:31.288Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-22T01:54:42.488Z",
+        "question": "ITコンサルにプログラミングスキルは必要？",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T05:14:04.393Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-23T18:58:10.159Z",
+        "question": "蒼海物産の海外駐在のキャリアは？",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T00:31:38.451Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T21:34:21.214Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-25T05:57:23.490Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-25T06:30:50.867Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-26T10:56:04.992Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T14:49:09.214Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T20:52:03.921Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-30T23:13:28.873Z",
+        "question": "アークライトで3年目に任される仕事は？",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-02T12:12:44.537Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-03T15:35:01.635Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-05T15:08:48.368Z",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-11-07T04:03:05.924Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-07T22:16:18.350Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-07T23:20:09.361Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-08T21:51:43.463Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-09T04:53:07.491Z",
+        "jobId": "j-skt",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-09T22:01:57.450Z",
+        "jobId": "j-th",
+        "companyId": "toho"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-10T01:00:45.855Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-11-11T00:44:42.321Z",
+        "question": "アークライトの年収はどれくらい？",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-11T07:16:01.156Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-12T05:57:33.475Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      }
+    ]
+  },
+  {
+    "id": "stu-20",
+    "anonId": "学生#8937",
+    "grade": "学部4年",
+    "major": "情報学部",
+    "interests": [
+      "コンサル",
+      "スタートアップ"
+    ],
+    "events": [
+      {
+        "type": "view_job",
+        "ts": "2026-10-15T04:05:48.265Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "ask",
+        "ts": "2026-10-15T22:39:11.658Z",
+        "question": "カスタマーサクセスに必要なスキルは？",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-16T04:43:44.925Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-17T20:17:25.058Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-19T20:32:53.379Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-20T12:04:02.805Z",
+        "jobId": "j-mit",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-22T01:48:38.659Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-23T01:24:03.364Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-23T13:55:27.557Z",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-23T23:38:58.184Z",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-24T15:24:31.208Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-25T01:49:53.911Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-10-25T18:07:13.596Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-26T08:12:26.067Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-10-30T04:40:50.147Z",
+        "jobId": "j-ng",
+        "companyId": "northgate"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-10-30T07:18:54.120Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_visit",
+        "ts": "2026-11-01T02:00:38.104Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-04T14:47:39.746Z",
+        "jobId": "j-arc",
+        "companyId": "arclight"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-04T20:44:08.530Z",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-07T18:12:34.939Z",
+        "companyId": "soukai"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-09T09:21:19.705Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-09T09:56:25.517Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-09T15:59:25.965Z",
+        "jobId": "j-mib",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-10T20:14:32.736Z",
+        "jobId": "j-ct",
+        "companyId": "catalyst"
+      },
+      {
+        "type": "visit_request",
+        "ts": "2026-11-11T11:16:58.257Z",
+        "alumniId": "al-lm-a",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-12T12:38:20.876Z",
+        "companyId": "miride"
+      },
+      {
+        "type": "view_job",
+        "ts": "2026-11-12T12:53:20.201Z",
+        "jobId": "j-lm",
+        "companyId": "lumina"
+      },
+      {
+        "type": "open_evidence",
+        "ts": "2026-11-12T13:27:37.399Z",
+        "jobId": "j-ski",
+        "companyId": "soukai"
+      },
+      {
+        "type": "view_company",
+        "ts": "2026-11-12T23:11:40.815Z",
+        "companyId": "northgate"
+      }
+    ]
+  }
+]
